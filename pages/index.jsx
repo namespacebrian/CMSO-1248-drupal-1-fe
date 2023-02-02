@@ -17,7 +17,7 @@ export default function HomepageTemplate({
 	const HomepageHeader = () => (
 		<div className="prose sm:prose-xl mt-20 flex flex-col mx-auto max-w-fit">
 			<h1 className="prose text-4xl text-center h-full">
-				Welcome to{' '}
+				asdf to{' '}
 				<a
 					className="text-blue-600 no-underline hover:underline"
 					href="https://nextjs.org"
